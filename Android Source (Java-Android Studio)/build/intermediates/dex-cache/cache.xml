@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kbutl_000\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-mobile-services-android-sdk\2.0.2\856c0726767e0e5e960832781400716116bb8a54\azure-mobile-services-android-sdk-2.0.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="856c0726767e0e5e960832781400716116bb8a54">
+        <dex dex="C:\Users\kbutl_000\Dropbox\Summer classes\COP4331c\Project 1\Source\Android Source (Java-Android Studio)\app\build\intermediates\pre-dexed\debug\azure-mobile-services-android-sdk-2.0.2-dfaa7b092fce59cbe0b09472014d50f6f99e97be.jar" />
+    </item>
+    <item
+        jar="C:\Users\kbutl_000\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\kbutl_000\Dropbox\Summer classes\COP4331c\Project 1\Source\Android Source (Java-Android Studio)\app\build\intermediates\pre-dexed\debug\gson-2.3-f6bd8d1033f0949c17a3dd1b3ef033e5b53659ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\kbutl_000\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-notifications-handler\1.0.1\c322af100020e6db539f2aa367698d4b88fc453f\azure-notifications-handler-1.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c322af100020e6db539f2aa367698d4b88fc453f">
+        <dex dex="C:\Users\kbutl_000\Dropbox\Summer classes\COP4331c\Project 1\Source\Android Source (Java-Android Studio)\app\build\intermediates\pre-dexed\debug\azure-notifications-handler-1.0.1-0767ace504edac858adec0c18f7a7e7509f8f49b.jar" />
+    </item>
+    <item
+        jar="C:\Users\kbutl_000\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\kbutl_000\Dropbox\Summer classes\COP4331c\Project 1\Source\Android Source (Java-Android Studio)\app\build\intermediates\pre-dexed\debug\guava-18.0-071e079534d8aea5771478eb2b645068ea804f80.jar" />
+    </item>
+
+</items>
